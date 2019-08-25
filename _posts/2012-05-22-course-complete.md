@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Course Complete!"
+tags: [teaching]
+---
+
+So… it has been a while since my last update.  This spring’s semester wrapped up well for both me, as well as the students in my Python for social scientists course.
+
+The feedback that I received was that the course was very useful for the students involved, some of whom have already written a number of programs that they are using in their research, though the syllabus could use some minor tweaks.  The syllabus as it is written on the website will be updated with some of the feedback that I received, namely, to spend a little bit more time on databases.  I tried to cram both relational database theory as well as “here is how to use sql” into one lecture and I don’t think it was covered with enough depth.  I  think that in the future I may also cover the use of linux tools to facilitate large file manipulation, as this is something that data scientists frequently have to do.
+
+One topic that I was not able to cover, but I think could be useful, would be an introduction to map-reduce, possibly with a hands on example using [EMR](http://aws.amazon.com/elasticmapreduce/).  It was definitely outside of the scope of this course, but seems like something that people that work with large corpora of text will run into eventually.
+
+While the course did not use a textbook, next time, if the course were taught in Python (which it probably will be) I will suggest that students buy [Think Complexity: Complexity Science and Computational Modeling](http://www.amazon.com/Think-Complexity-Science-Computational-Modeling/dp/1449314635) by [Allen Downey](http://allendowney.blogspot.com/).  While it does not devote time to web scraping, it does have some good coverage of Python concepts and has some great examples of how to implement well known models in Python.  If I could somehow justify teaching the course in Ruby, (The Bastards Book of Ruby)[http://ruby.bastardsbook.com/] would be a perfect supplement.
+
+The students’ final projects were great and covered a wide range of technical areas.  One group built an application that integrated with twitter and google translate’s apis to create a dataset about world leader communication.  A different student started out building a web crawler and then realized that all of the data was in PDF format, so they got to learn about how to use [PDFMiner](http://www.unixuser.org/~euske/python/pdfminer/index.html) to extract the information that was needed.  Another discovered that web scraping ia much harder with ajax heavy websites and ended up learning to use [Selenium](http://www.seleniumhq.org/) to solve this problem.  Finally, one student jumped into the world of Python UI and built a GUI for playing a game that used [Lanchester’s Laws](http://en.wikipedia.org/wiki/Lanchester's_laws) to simulate the outcome.  The goal for the final project was to do something that could ultimately end up turning into a paper and I think on that front all of the groups did well.  I am excited to see where these projects end up.
