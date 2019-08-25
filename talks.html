@@ -1,0 +1,36 @@
+---
+layout: page
+title: Talks
+permalink: /talks/
+---
+
+<div class="home">
+
+  <p> A list of recent talks I have given </p>
+
+  <ul class="post-list">
+    {% for talk in site.data.talks.sessions %}
+      <li>
+        <span class="post-meta">{{ talk.presentation-date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ talk.presentation.url | prepend: site.baseurl }}" target='_blank'>{{ talk.presentation.title }}</a>
+        </h2>
+        <h4>presented to <a class='' href="{{ talk.conference.url }}">{{talk.conference.title}}</a></h4>
+
+        <p>
+            {{ talk.presentation.brief-description }}
+            </p>
+            {% if talk.presenters %}
+                <p>
+                    <strong>Presenters:</strong>
+                    {% for presenter in talk.presenters %}
+                        {{ presenter.name }}
+                    {% endfor %}
+                </p>
+            {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

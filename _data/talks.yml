@@ -1,0 +1,30 @@
+presenter:
+  name: Josh Cutler
+  email: josh@cutl3r.com
+
+sessions:
+  - presentation-date: 2016-06-07
+    conference: 
+      title: Big Data Tech 2016
+      url: http://minneanalytics.org/bigdatatech/
+    presentation:
+      title: A Bayesian Approach to Predictive Pricing
+      url: ''
+      brief-description: This talk will present how to use Bayesian modeling to predict the market value of collectibles based on recent sales.  It does so in an MCMC framework and provides an answer for how to predict the sale price of items that are rarely (or never) sold at auction.
+      full-description: 
+      keyword:
+        - prediction
+        - bayesian
+
+  - presentation-date: 2014-11-24
+    conference: 
+      title: Ruby.MN
+      url: http://www.ruby.mn/
+    presentation:
+      title: Image Recognition in Ruby
+      url: https://joshcutler.github.io/image-recognition-ruby/
+      brief-description: Walks through the basics of doing pattern recognition and OCR in Ruby
+      full-description: ""
+      keyword:
+        - ruby
+        - image recognition
