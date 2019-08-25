@@ -4,29 +4,31 @@ title: Talks
 permalink: /talks/
 ---
 
-<div class="home">
+<div class="home talks">
 
   <p> A list of my recent talks/panels: </p>
 
   <ul class="post-list">
     {% for talk in site.data.talks.sessions %}
       <li>
-        <span class="post-meta">{{ talk.presentation-date | date: "%b %-d, %Y" }}</span>
-
         <h2>
-          <a class="post-link" href="{{ talk.presentation.url | prepend: site.baseurl }}" target='_blank'>{{ talk.presentation.title }}</a>
+          {% if talk.presentation.url %}
+            <a class="post-link" href="{{ talk.presentation.url | prepend: site.baseurl }}" target='_blank'>{{ talk.presentation.title }}</a>
+          {% else %}
+            {{ talk.presentation.title }}
+          {% endif %}
         </h2>
-        <h4>presented to <a class='' href="{{ talk.conference.url }}">{{talk.conference.title}}</a></h4>
+        <h4>Presented to <a class='' href="{{ talk.conference.url }}">{{talk.conference.title}}</a> on <span class="post-meta">{{ talk.presentation-date | date: "%b %-d, %Y" }}</span></h4>
 
         <p>
-            {{ talk.presentation.brief-description }}
+          {{ talk.presentation.brief-description }}
+        </p>
+        {% if talk.presenters %}
+            <p class='presenters'>
+                <strong>Presenters:</strong>
+                {{ talk.presenters | join: ", " }}
             </p>
-            {% if talk.presenters %}
-                <p>
-                    <strong>Presenters:</strong>
-                    {{ talk.presenters | join: ", " }}
-                </p>
-            {% endif %}
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

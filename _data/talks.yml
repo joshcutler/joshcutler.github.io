@@ -12,7 +12,6 @@ sessions:
       - Simon Crosby
     presentation:
       title: "Panel: Human vs. Machine"
-      url: ''
       brief-description: Panel will provide stimulating in-depth discussion into the hype and actual benefits gained from AI/ML.  This panel will review the actual available functionality and potential while providing a realistic view to today’s implementation issues and challenges.
       full-description: 
       keyword:
@@ -25,7 +24,6 @@ sessions:
       url: http://minneanalytics.org/minnemudac/
     presentation:
       title: "Panel: Millenials in Data Science Panel"
-      url: ''
       brief-description: Panel on advice for early career data scientists
       full-description: 
       keyword:
@@ -44,7 +42,6 @@ sessions:
       - Julie Zhu
     presentation:
       title: "Panel: Why AI is a Competitive Advantage in a Startup's Tech Stack"
-      url: ''
       brief-description: Come join our discussion on why startups can leverage AI and Machine Learning early on in their product development and go to market strategies. We'll have a delicious spread of breakfast options for you to choose from as you listen to a variety of panelists speak on this topic. Hope to see you there!
       full-description: 
       keyword:
@@ -62,7 +59,6 @@ sessions:
       - Kristen Findley
     presentation:
       title: "Panel: Marketing in the Machine Age"
-      url: ''
       brief-description: In the marketing world Artificial Intelligence (AI) is a popular “buzz word”. If you haven’t spent much time researching AI, consider this blog your introduction to a topic you’ll be hearing more about in the future. If you are like us, you don’t want to be left behind when it comes to new technology and innovation. Thankfully – for those of you in and near the Twin Cities – you can join us at DenamiCON and explore this topic in more depth!
       full-description: 
       keyword:
@@ -75,7 +71,6 @@ sessions:
       url: https://www.mnentrepreneurs.org/
     presentation:
       title: "Panel: Tech Trends into the 2020s Q&A"
-      url: ''
       brief-description: At the kickoff, 9 active tech leader founders / product builders will field your questions about commercializing these emerging technologies.
       full-description: 
       keyword:
@@ -88,7 +83,6 @@ sessions:
       url: https://www.meetup.com/ProductTank-Twin-Cities/
     presentation:
       title: "Voice: The Old New Thing"
-      url: ''
       brief-description: This talk will discuss how to think about using Voice and AI to build products.  It will present some of the pitfalls, opportunities and lessons learned from building a voice product.
       full-description: 
       keyword:
@@ -106,7 +100,6 @@ sessions:
       - Matt Versaggi
     presentation:
       title: "Artificial Intelligence Expert Panel, IBM, Optum, and Aftercode"
-      url: ''
       brief-description: "Can Minnesota become an industry leader with emerging technology?  Artificial Intelligence, Machine Learning, Virtual Reality and Autonomous Drones all have tremendous implications for the future of healthcare.  Join us at Healthcare.mn for a casual chat with the some of the sharpest Minnesota minds working on these problems."
       full-description: 
       keyword:
@@ -123,7 +116,6 @@ sessions:
       - Charles Schaller
     presentation:
       title: "Emerging Technology and Healthcare: A Fireside Chat"
-      url: ''
       brief-description: "Can Minnesota become an industry leader with emerging technology?  Artificial Intelligence, Machine Learning, Virtual Reality and Autonomous Drones all have tremendous implications for the future of healthcare.  Join us at Healthcare.mn for a casual chat with the some of the sharpest Minnesota minds working on these problems."
       full-description: 
       keyword:
@@ -136,7 +128,6 @@ sessions:
       url: https://www.ima.umn.edu/industrial
     presentation:
       title: Startups and Machine Leaning in the Wild
-      url: ''
       brief-description: Many of the problems that you will face when applying AI in the business world are not algorithmic. This talk will draw from a variety applied machine learning scenarios that we have encountered at Deep Machine and talk about the types of problems to expect, the reasons that businesses care and some of the trade offs that we face as a small company in a big data world. It will address the breadth of work being done and discuss some of the tradeoffs between startup and big company data science.
       full-description: 
       keyword:
@@ -154,7 +145,6 @@ sessions:
       - Brandon Veber
     presentation:
       title: "Panel: Analytics Fishbowl"
-      url: ''
       brief-description: The Analytics Fishbowl will have a diverse group of industry analytics experts that will answer audience questions. When you the audience have heard enough you will vote to move on to the next analytics discussion. Have something to contribute? An empty chair will be available for anyone to join the panel discussion. In the spirit of this event and community, we thought no better way to engage on analytics.
       full-description: 
       keyword:
@@ -167,7 +157,6 @@ sessions:
       url: http://healthcare.mn
     presentation:
       title: Intelligence in Healthcare
-      url: ''
       brief-description: This talk will introduce deep learning concepts and talk about how they are currently being applied int he healthcare space.
       full-description: 
       keyword:
@@ -180,7 +169,6 @@ sessions:
       url: http://minneanalytics.org/bigdatatech/
     presentation:
       title: A Bayesian Approach to Predictive Pricing
-      url: ''
       brief-description: This talk will present how to use Bayesian modeling to predict the market value of collectibles based on recent sales.  It does so in an MCMC framework and provides an answer for how to predict the sale price of items that are rarely (or never) sold at auction.
       full-description: 
       keyword:
