@@ -6,7 +6,7 @@ permalink: /talks/
 
 <div class="home">
 
-  <p> A list of recent talks I have given </p>
+  <p> A list of my recent talks/panels: </p>
 
   <ul class="post-list">
     {% for talk in site.data.talks.sessions %}
@@ -24,9 +24,7 @@ permalink: /talks/
             {% if talk.presenters %}
                 <p>
                     <strong>Presenters:</strong>
-                    {% for presenter in talk.presenters %}
-                        {{ presenter.name }}
-                    {% endfor %}
+                    {{ talk.presenters | join: ", " }}
                 </p>
             {% endif %}
       </li>
