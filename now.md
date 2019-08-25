@@ -3,15 +3,12 @@ layout: page
 title: Now
 permalink: /now/
 ---
+Really focusing on simplifying.  My last year has been very distracted between shutting down the startup, new job, new house, kids sleeping patterns, etc.  Hoping to find some rythm with the following:
 
-Just taken the reigns at [Deep Machine](https://www.deepmachine.com).  Splitting time between growing that and getting my personal life in balance.
-
-- Finding more clients that Deep Machine can help.
+- Settling in at Optum.  Trying to map out the best way to speng my next 12 months there.
 
 - Forcing myself to write.  Trying to internalize (again) some of [Mike Munger's thoughts](http://chronicle.com/article/10-Tips-on-How-to-Write-Less/124268) on this.
 
-- Working on getting into good enough shape that I can jump back into BJJ.
+- Spending time with my wife and kids.  Every day.  With my phone off.
 
-- Spending time with my wife and son.  Every day.  With my phone off.
-
-The above writing isn't of much use unless I find an audience.  If you are looking for speakers / instructors in any area that Deep Machine is investing in, please reach out!
+- Moving in to our new house -- unpacking and all of the projects that come with a new space.
