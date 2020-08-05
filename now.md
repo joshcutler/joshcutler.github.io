@@ -3,12 +3,12 @@ layout: page
 title: Now
 permalink: /now/
 ---
-Really focusing on simplifying.  My last year has been very distracted between shutting down the startup, new job, new house, kids sleeping patterns, etc.  Hoping to find some rythm with the following:
+Trying to safely keep all the plates spinning through the pandemic:
 
-- Settling in at Optum.  Trying to map out the best way to speng my next 12 months there.
+- I am really trying to not just put our lives on pause but still be safe.  That means being creative with the kids and my wife on how/what we can do.
 
-- Forcing myself to write.  Trying to internalize (again) some of [Mike Munger's thoughts](http://chronicle.com/article/10-Tips-on-How-to-Write-Less/124268) on this.
+- Growing my and my teams' role at work.  The team is kicking butt, so now I need to figure out how we can do more and keep having fun.
 
-- Spending time with my wife and kids.  Every day.  With my phone off.
+- Enjoying as much outdoor time as possible before the snow hits.
 
-- Moving in to our new house -- unpacking and all of the projects that come with a new space.
+- Cooking a lot more.  Really trying to find things that are fun for the adults but our 2 and 5 year old will eat so we don't have two seperate menus.
