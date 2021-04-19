@@ -12,4 +12,17 @@ At various times in the past I have run commercial software teams, founded start
 
 # Contact
 
-I am josh at this tld or you can find me on twitter at [@josh_cutler](https://twitter.com/josh_cutler)
+To contact me run the following code to get my email address:
+
+```
+import base64
+
+encoded_email = b'a3B0aUFkdnVtNHMvZHBu'
+y = base64.b64decode(encoded_email).decode('ascii')
+z = "".join([chr(ord(i)-1) for i in y])
+
+print(z)
+```
+Kudos to [Stephen Diehl](https://www.stephendiehl.com/pages/hire.html) on the inspiration here
+
+Or just find me on twitter [@josh_cutler](https://twitter.com/josh_cutler)
