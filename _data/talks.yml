@@ -3,6 +3,47 @@ presenter:
   email: josh@cutl3r.com
 
 sessions:
+  - presentation-date: 2021-01-20
+    conference: 
+      title: MNTech Advanced Technology Series
+      url: https://mntech.org/event/delivering-with-machine-learning/
+    presenters:
+      - Josh Cutler
+    presentation:
+      title: "Delivering with Machine Learning"
+      brief-description: In this upcoming session, Josh Cutler, VP & Sr. Distinguished Engineer for AI Platforms & Transformation Team at Optum, will talk through the “how” of implementing machine learning.  While effectively training machine learning models can be a difficult undertaking in its own right, deploying them and realizing their value is equally important. This talk will discuss how to develop and deliver machine learning technologies into production in a scalable and repeatable manner. Using real examples throughout, we will step through the considerations for training, managing and ultimately deploying machine learning models into working software systems.
+      full-description: 
+      keyword:
+        - modelops
+        - ai
+  - presentation-date: 2020-07-20
+    conference: 
+      title: Conversations on Applied AI
+      url: https://www.buzzsprout.com/1101152
+    presenters:
+      - Josh Cutler
+    presentation:
+      title: Building Expert Systems Using Artificial Intelligence
+      brief-description: In this episode, we are joined by Josh Cutler, VP & Sr. Distinguished Engineer for AI Platforms & Transformation Team at Optum. Josh shared with us his 15+ years of experience in applying data and intelligence to solve hard business problems. I really liked Josh's definition of the application of AI being, "How can we help computers make good decisions". This cuts to the core of why we are building these systems and what the outcome should be.  Besides the applications Josh is building with his team today, he shared with us how he got into the field, the startups he founded, and how Microsoft was actually ahead of their time in this space with their Live Labs initiative and so much more. Enjoy!
+      full-description: 
+      keyword:
+        - modelops
+        - ai
+  - presentation-date: 
+    conference: 
+      title: 
+      url: 
+    presenters:
+      - Josh Cutler
+    presentation:
+      title: "Thinking Like a Startup"
+      brief-description: 
+      full-description: 
+      keyword:
+        - culture
+        - teams
+        - innovation
+        - agility
   - presentation-date: 2019-10-30
     conference: 
       title: CyberSecurity Summit 2019
@@ -17,7 +58,20 @@ sessions:
       keyword:
         - security
         - ai
-
+  - presentation-date: 2019-09-26
+    conference: 
+      title: "Optum/UHG/UHC Analytics Conference 2019"
+      url: https://eventil.com/events/optum-uhg-uhc-analytics-conference-2019/
+    presenters:
+      - Josh Cutler
+    presentation:
+      title: "IQ Studio Workbench: Experiment to Production"
+      brief-description: 
+      full-description: 
+      keyword:
+        - ml
+        - modelops
+        - ai
   - presentation-date: 2018-11-03
     conference: 
       title: "MinneMUDAC 2018: Student Data Science Challenge"
