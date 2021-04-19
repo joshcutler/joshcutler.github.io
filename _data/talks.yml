@@ -7,8 +7,6 @@ sessions:
     conference: 
       title: MNTech Advanced Technology Series
       url: https://mntech.org/event/delivering-with-machine-learning/
-    presenters:
-      - Josh Cutler
     presentation:
       title: "Delivering with Machine Learning"
       brief-description: In this upcoming session, Josh Cutler, VP & Sr. Distinguished Engineer for AI Platforms & Transformation Team at Optum, will talk through the “how” of implementing machine learning.  While effectively training machine learning models can be a difficult undertaking in its own right, deploying them and realizing their value is equally important. This talk will discuss how to develop and deliver machine learning technologies into production in a scalable and repeatable manner. Using real examples throughout, we will step through the considerations for training, managing and ultimately deploying machine learning models into working software systems.
@@ -16,12 +14,41 @@ sessions:
       keyword:
         - modelops
         - ai
+  - presentation-date: 
+    conference: 
+      title: UHG DevDays 2020
+      url: 
+    presenters:
+      - Josh Cutler
+      - Matthew Shilts
+    presentation:
+      title: "Software 2.0"
+      brief-description: 
+      full-description: 
+      keyword:
+        - software
+        - engineering
+        - ai
+  - presentation-date: 
+    conference: 
+      title: UHG DevDays 2020
+      url: 
+    presenters:
+      - Josh Cutler
+      - Ravi Kondadadi
+      - Galina Grunin
+    presentation:
+      title: "NLP"
+      brief-description: 
+      full-description: 
+      keyword:
+        - nlp
+        - voice
+        - "conversational ai"
   - presentation-date: 2020-07-20
     conference: 
       title: Conversations on Applied AI
       url: https://www.buzzsprout.com/1101152
-    presenters:
-      - Josh Cutler
     presentation:
       title: Building Expert Systems Using Artificial Intelligence
       brief-description: In this episode, we are joined by Josh Cutler, VP & Sr. Distinguished Engineer for AI Platforms & Transformation Team at Optum. Josh shared with us his 15+ years of experience in applying data and intelligence to solve hard business problems. I really liked Josh's definition of the application of AI being, "How can we help computers make good decisions". This cuts to the core of why we are building these systems and what the outcome should be.  Besides the applications Josh is building with his team today, he shared with us how he got into the field, the startups he founded, and how Microsoft was actually ahead of their time in this space with their Live Labs initiative and so much more. Enjoy!
@@ -33,8 +60,6 @@ sessions:
     conference: 
       title: 
       url: 
-    presenters:
-      - Josh Cutler
     presentation:
       title: "Thinking Like a Startup"
       brief-description: 
@@ -51,6 +76,8 @@ sessions:
     presenters:
       - Josh Cutler
       - Simon Crosby
+      - Dave Diehl
+      - Eric Lengvenis
     presentation:
       title: "Panel: Human vs. Machine"
       brief-description: Panel will provide stimulating in-depth discussion into the hype and actual benefits gained from AI/ML.  This panel will review the actual available functionality and potential while providing a realistic view to today’s implementation issues and challenges.
