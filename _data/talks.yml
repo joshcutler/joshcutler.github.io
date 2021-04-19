@@ -45,6 +45,20 @@ sessions:
         - nlp
         - voice
         - "conversational ai"
+  - presentation-date: 2020-11-17
+    conference: 
+      title: CPrime Jam Sessions
+      url: https://www.meetup.com/JamSessions_Cprime/events/274191462/
+    presenters:
+      - Josh Cutler
+      - Tina Nguyen
+    presentation:
+      title: "Bias in AI"
+      brief-description: Does AI bake in bias or reduce its impact? Join Josh Cutler and Tina Nguyen during your lunch break for a discussion on AI integrity and the issue of bias in data, algorithms, and humans.
+      full-description: 
+      keyword:
+        - bias
+        - ai
   - presentation-date: 2020-07-20
     conference: 
       title: Conversations on Applied AI
