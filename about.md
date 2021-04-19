@@ -14,7 +14,7 @@ At various times in the past I have run commercial software teams, founded start
 
 To contact me run the following code to get my email address:
 
-```
+```python
 import base64
 
 x = b'a3B0aUFkdnVtNHMvZHBu'
