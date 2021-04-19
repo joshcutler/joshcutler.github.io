@@ -17,8 +17,8 @@ To contact me run the following code to get my email address:
 ```
 import base64
 
-encoded_email = b'a3B0aUFkdnVtNHMvZHBu'
-y = base64.b64decode(encoded_email).decode('ascii')
+x = b'a3B0aUFkdnVtNHMvZHBu'
+y = base64.b64decode(x).decode('ascii')
 z = "".join([chr(ord(i)-1) for i in y])
 
 print(z)
