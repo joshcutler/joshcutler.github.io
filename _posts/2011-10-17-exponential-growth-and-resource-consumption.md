@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exponential Growth and Resource COnsumption
+title: Exponential Growth and Resource Consumption
 date: 2011-10-17 13:10 -0400
 tags: R
 ---
