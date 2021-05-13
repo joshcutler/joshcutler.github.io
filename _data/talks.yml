@@ -14,37 +14,6 @@ sessions:
       keyword:
         - modelops
         - ai
-  - presentation-date: 
-    conference: 
-      title: UHG DevDays 2020
-      url: 
-    presenters:
-      - Josh Cutler
-      - Matthew Shilts
-    presentation:
-      title: "Software 2.0"
-      brief-description: 
-      full-description: 
-      keyword:
-        - software
-        - engineering
-        - ai
-  - presentation-date: 
-    conference: 
-      title: UHG DevDays 2020
-      url: 
-    presenters:
-      - Josh Cutler
-      - Ravi Kondadadi
-      - Galina Grunin
-    presentation:
-      title: "NLP"
-      brief-description: 
-      full-description: 
-      keyword:
-        - nlp
-        - voice
-        - "conversational ai"
   - presentation-date: 2020-11-17
     conference: 
       title: CPrime Jam Sessions
@@ -54,10 +23,42 @@ sessions:
       - Tina Nguyen
     presentation:
       title: "Bias in AI"
+      url: /assets/bias-in-ai-lightning-talk.pptx
       brief-description: Does AI bake in bias or reduce its impact? Join Josh Cutler and Tina Nguyen during your lunch break for a discussion on AI integrity and the issue of bias in data, algorithms, and humans.
       full-description: 
       keyword:
         - bias
+        - ai
+  - presentation-date:  2020-11-12
+    conference: 
+      title: UHG DevDays 2020
+      url: 
+    presenters:
+      - Josh Cutler
+      - Ravi Kondadadi
+      - Galina Grunin
+    presentation:
+      title: "Voice & NLP for Healthcare: Technical Deep dive"
+      brief-description:  A large portion of health care data is unstructured. Voice and natural language processing (NLP) technologies can extract insights from this data. Voice/NLP can improve customer experience, care quality and efficiency. Voice enabled context-aware virtual assistants can enhance member experience, improve NPS and reduce handle time. We will introduce ATC’s voice/NLP services and tools to help
+      full-description: 
+      keyword:
+        - nlp
+        - voice
+        - "conversational ai"
+  - presentation-date: 2020-11-10
+    conference: 
+      title: UHG DevDays 2020
+      url: 
+    presenters:
+      - Josh Cutler
+      - Matthew Shilts
+    presentation:
+      title: "Mainstreaming AI/ML at the Enterprise: Software 2.0"
+      brief-description: 
+      full-description: 
+      keyword:
+        - software
+        - engineering
         - ai
   - presentation-date: 2020-07-20
     conference: 
@@ -70,14 +71,14 @@ sessions:
       keyword:
         - modelops
         - ai
-  - presentation-date: 
+  - presentation-date: 2020-01-21
     conference: 
-      title: 
+      title: Leading in Engineering Culture
       url: 
     presentation:
       title: "Thinking Like a Startup"
       brief-description: 
-      full-description: 
+      full-description:
       keyword:
         - culture
         - teams
@@ -99,7 +100,23 @@ sessions:
       keyword:
         - security
         - ai
-  - presentation-date: 2019-09-26
+  - presentation-date: 2019-09-27
+    conference: 
+      title: "Optum/UHG/UHC Analytics Conference 2019"
+      url: https://eventil.com/events/optum-uhg-uhc-analytics-conference-2019/
+    presenters:
+      - Josh Cutler
+      - Dan Mulcahy
+      - Jeremy Kingston
+    presentation:
+      title: "Panel: Scaling AI at Optum"
+      brief-description: 
+      full-description: 
+      keyword:
+        - ml
+        - modelops
+        - ai
+  - presentation-date: 2019-09-27
     conference: 
       title: "Optum/UHG/UHC Analytics Conference 2019"
       url: https://eventil.com/events/optum-uhg-uhc-analytics-conference-2019/
@@ -107,7 +124,7 @@ sessions:
       - Josh Cutler
     presentation:
       title: "IQ Studio Workbench: Experiment to Production"
-      brief-description: 
+      brief-description: In this talk we will show you how to use Optum IQ Studio tools to create a model and deliver it all the way to production. We will walk through how to create a machine learning environment in the cloud for working with your data via Jupiter Notebooks, train your model using scalable compute resources and finally, deploy the model as an API that is ready for a production workload.
       full-description: 
       keyword:
         - ml
