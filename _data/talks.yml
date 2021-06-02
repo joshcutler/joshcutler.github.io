@@ -3,6 +3,32 @@ presenter:
   email: josh@cutl3r.com
 
 sessions:
+  - presentation-date: 2021-06-17
+    conference: 
+      title: L3-AI
+      url: https://l3-ai.dev/
+    presentation:
+      title: "Chatbots: From POC to Production"
+      brief-description: "In this talk we will discuss three key considerations for progressing your chatbots from POC to running in production: scalability, managing the unhappy path, and making sure that you can get better over time.  We will consider scalability ossues ranging from the chatbot machinery itself to backend fulfillment services to increased engagement from your users.  The environment in which you develop your chatbot, by necessity, will represent only a small fraction of the interactions that real world users will present and we will discuss how to think about bridging that gap.  Finally, we will talk about how to ensure that you are capturing and utilizing the interactions that your production environment will capture toensure that your chatbot is both successful during this transition and getting better over time."
+      full-description: 
+      keyword:
+        - healthcare
+        - chatbots
+  - presentation-date: 2021-06-15
+    conference: 
+      title: Bay Area Chatbot, Voice Assistants and Conversational AI
+      url: https://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/events/278222045/
+    presenters:
+      - Josh Cutler
+      - Alexia Sibony
+      - Stefan Behrens
+    presentation:
+      title: "Chatbots and Voice Assistants in Healthcare"
+      brief-description: Chatbots and voice assistants are prevalent throughout the healthcare space.  Hospitals, insurance agencies, and healthcare providers are using chatbots for patient onboarding, symptom checking, appointment scheduling, telemedicine, and more. Covid-19 has further increased the demand for conversational AI solutions.  Join us as we explore how the healthcare industry is leveraging chatbots and voice assistants.
+      full-description: 
+      keyword:
+        - healthcare
+        - chatbots
   - presentation-date: 2021-01-20
     conference: 
       title: MNTech Advanced Technology Series
