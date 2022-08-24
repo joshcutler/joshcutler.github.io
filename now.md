@@ -3,12 +3,12 @@ layout: page
 title: Now
 permalink: /now/
 ---
-Trying to safely keep all the plates spinning through the pandemic:
+Trying to safely keep all the plates spinning :
 
-- I am really trying to not just put our lives on pause but still be safe.  That means being creative with the kids and my wife on how/what we can do.
+- Working on the balance between activities and downtime with my family
 
-- Starting a new role as the Chief Data Scientist at UnitedHealthcare.
+- Starting a new role as the CIO at Onda.
 
-- Planning the new garden and outdoor spaces to enjoy this summer.
+- Always rethinking and expanding our gardens.
 
-- Spinning up lots of side projects.  Keeping the technical skills sharp and keeping myself sane.
+- Figuring out what fitness looks like as I approach 40
