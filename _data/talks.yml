@@ -3,6 +3,28 @@ presenter:
   email: josh@cutl3r.com
 
 sessions:
+  - presentation-date: 2022-04-20
+    conference: 
+      title: Carnegie Mellow AI For Business Leaders Commencement
+      url: https://www.cmu.edu/tepper/executive-education/analytics/index.html
+    presentation:
+      title: "AI & Healthcare: How to Lead Through the Hype"
+      brief-description: "In this talk we will discuss the challenges and opportunities that AI practiioners face in healthcare.  We will talk about what it takes to successfully lead AI teams, how to garner support for smart investments in the space and how to manage executives who may not have a deep understanding of what AI is."
+      full-description: 
+      keyword:
+        - healthcare
+        - ai
+  - presentation-date: 2022-02-24
+    conference: 
+      title: Healthcare Technology Advisory Council
+      url: 
+    presentation:
+      title: "AI & Healthcare: How to Cut Through the Hype"
+      brief-description: "This talk is for executives at healthcare companies that want to better understand what the real opportunites to us AI to transform their businesses are.  It will answer questions such as: What is AI?  What is it not?  What steps can I as a leader take right now?  What is coming next?  It will conclude with an open discussion."
+      full-description: 
+      keyword:
+        - healthcare
+        - ai
   - presentation-date: 2021-06-17
     conference: 
       title: L3-AI
@@ -295,7 +317,7 @@ sessions:
       url: http://healthcare.mn
     presentation:
       title: Intelligence in Healthcare
-      brief-description: This talk will introduce deep learning concepts and talk about how they are currently being applied int he healthcare space.
+      brief-description: This talk will introduce deep learning concepts and talk about how they are currently being applied in the healthcare space.
       full-description: 
       keyword:
         - deep learning
