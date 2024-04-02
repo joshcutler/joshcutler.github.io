@@ -20,16 +20,18 @@ author:
 description: >- # this means to ignore newlines until "baseurl:"
   Technology.  Machine Learning.  Politics.  This is a personal blog and does not in any way represent the beliefs of my employer.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "josh.cutl3r.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://josh.cutl3r.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: josh_cutler
 # github_username:  joshcutler
 linkedin_username: joshcutler
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
