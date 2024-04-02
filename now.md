@@ -7,8 +7,8 @@ Trying to safely keep all the plates spinning :
 
 - Working on the balance between activities and downtime with my family
 
-- Starting a new role as the CIO at Onda.
+- Starting a new role as the CTO at Yardstik.
 
-- Always rethinking and expanding our gardens.
+- Streamlining my plant fixation to just orchids and carnivores.
 
-- Figuring out what fitness looks like as I approach 40
+- Figuring out what fitness looks like in my 40s
